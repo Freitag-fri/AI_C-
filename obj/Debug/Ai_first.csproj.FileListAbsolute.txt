@@ -1,0 +1,10 @@
+D:\program\C#\Ai_first\Ai_first\bin\Debug\Ai_first.exe.config
+D:\program\C#\Ai_first\Ai_first\bin\Debug\Ai_first.exe
+D:\program\C#\Ai_first\Ai_first\bin\Debug\Ai_first.pdb
+D:\program\C#\Ai_first\Ai_first\obj\Debug\Ai_first.csprojAssemblyReference.cache
+D:\program\C#\Ai_first\Ai_first\obj\Debug\Ai_first.Form1.resources
+D:\program\C#\Ai_first\Ai_first\obj\Debug\Ai_first.Properties.Resources.resources
+D:\program\C#\Ai_first\Ai_first\obj\Debug\Ai_first.csproj.GenerateResource.cache
+D:\program\C#\Ai_first\Ai_first\obj\Debug\Ai_first.csproj.CoreCompileInputs.cache
+D:\program\C#\Ai_first\Ai_first\obj\Debug\Ai_first.exe
+D:\program\C#\Ai_first\Ai_first\obj\Debug\Ai_first.pdb
